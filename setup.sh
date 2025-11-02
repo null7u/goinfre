@@ -25,7 +25,7 @@ download_uv
 
 download_nvim
 download_go "1.25.3"
-download_flutter
+#download_flutter
 
 
 
